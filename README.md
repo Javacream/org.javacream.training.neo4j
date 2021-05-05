@@ -20,7 +20,7 @@
 ## RdWeb
 
 * Integrata-Cegos stellt für das Seminar via RDWeb Linux-Rechner zur Verfügung
-  * Anmeldung an das Gateway 
+  * Aufruf des Gateways 
     * von einem Windows-Rechner mit https://rdweb.integrata-cegos.de/rdweb/
     * von einem Linux-Client aus mit https://rdweb.integrata-cegos.de/rdweb/webclient
   * Anmeldung am Gateway mit
