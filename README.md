@@ -24,7 +24,7 @@
     * von einem Windows-Rechner mit https://rdweb.integrata-cegos.de/rdweb/
     * von einem Linux-Client aus mit https://rdweb.integrata-cegos.de/rdweb/webclient
   * Anmeldung am Gateway mit
-    * student_m020<nummer>@integrata-cegos.de  
+    * student_m020<i>nummer</i>@integrata-cegos.de  
       * <nummer> wird im Seminar mitgeteilt
     * Password wird im Seminar mitgeteilt
-    * Anschliessend Auswahl der Linux-Ressource, Anmeldedaten werden im Seminar mitgeteilt  
+    * Anschliessend Auswahl der Windows-Ressource, Anmeldedaten werden im Seminar mitgeteilt  
