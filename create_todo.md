@@ -6,8 +6,8 @@ create (p1) -[:KNOWS] -> (p2)
 
 # create and match afterwards
 
-create (p1:Person {lastname: "Metzger"})    
-create (p2:Person {lastname: "Hoffmann"})    
+create (:Person {lastname: "Metzger"})    
+create (:Person {lastname: "Hoffmann"})    
 
 after that    
 match (p1:Person {lastname:"Metzger"})    
