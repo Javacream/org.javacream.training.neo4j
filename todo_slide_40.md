@@ -11,5 +11,5 @@
 * match (n:Director) return n.name
 * match (n:Person) where any(label in labels(n) where not label in ['Director']) return n
 
-### 
-match (n) where not (n) - [:DIRECTED] - (:Movie) remove n:Director
+###  Remove Label for no directors
+* match (n) where not (n) - [:DIRECTED] - (:Movie) remove n:Director
