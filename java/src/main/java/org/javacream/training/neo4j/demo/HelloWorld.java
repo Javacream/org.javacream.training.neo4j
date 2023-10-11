@@ -1,6 +1,5 @@
 package org.javacream.training.neo4j.demo;
 
-import jakarta.annotation.PostConstruct;
 import org.neo4j.driver.Driver;
 import org.neo4j.driver.Query;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,8 +24,6 @@ public class HelloWorld{
         }
 
     }
-    @PostConstruct public void init(){
-        printGreeting("Hello NEO!!!");
-    }
+
 
 }
