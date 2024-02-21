@@ -2,12 +2,13 @@
 
 * Referent: Rainer Sawitzki, eMail: rainer.sawitzki@gmail.com
 
-* [Digitales Flipchart](https://docs.google.com/presentation/d/1iXr2J9xzShTqEUXmW5nnNV2XZFckWp4kVWl2hHg3a0U/edit?usp=sharing)
+* [Digitales Flipchart](https://docs.google.com/presentation/d/1xHRmy56E32D2LHxZHupkLxNxizZ_LNsja3UaCSjiUUU/edit?usp=sharing)
 
 * Seminarzeiten
   * 12 Unterrichtseinheiten mit jeweils 90 Minuten
-  * 8:30 - 16:30
-    * 8:30 - 10:00
-    * 10:15-11:45
-    * 13:15-14:45
-    * 15:00-16:30
+    * 9:00 - 16:15
+    * Mittagspause 12:15 - 13:00
+    * Kaffeepausen 10:30 - 10:45 und 14:30 - 14:15
+  * 9:00 - 9:15 "Come together", Umgebung einrichten, Wünsche, ...
+  * 15:45 - 16:15 "Cool down", Zusammenfassung des Tages, Bearbeiten offener Punkte, Fragen, Anregungen, ...
+  
