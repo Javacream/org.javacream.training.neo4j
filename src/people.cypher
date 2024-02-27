@@ -1,0 +1,8 @@
+create (p1:Person {lastname:"Sawitzki", firstnames: ["Rainer", "Ulrich"], height: 183})
+create (p2:Person {lastname: "Fabricius", firstname: "Carola", height: 176})
+create (a1: Address {city: "München", street: "Marienplatz"})
+create (a2: Address {city: "Berlin", street: "Alexanderplatz"})
+create (a3: Address {city: "Stuttgart", street: "Schlossplatz"})
+create (p1)-[:LIVES_AT {primary:TRUE}]-> (a1)
+create (p2)-[:LIVES_AT] -> (a2)
+create (p2)-[:LIVES_AT {primary:TRUE}]-> (a3)
