@@ -1,0 +1,1 @@
+match (p:Person) - [:LIVES_AT {primary: TRUE}] ->(a) <- [:HAS_ADDRESS]- (c:Company) return p,a,c

@@ -1,0 +1,1 @@
+match(p:Person) - [:LIVES_AT] -> (adress) return adress
