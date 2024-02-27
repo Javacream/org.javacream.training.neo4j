@@ -1,1 +1,1 @@
-match (p:Person) return p;
+match (m:Movie) return m;
