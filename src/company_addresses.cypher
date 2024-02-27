@@ -1,0 +1,6 @@
+match(c1:Company {name:"Javacream"})
+match(c2:Company {name:"Cegos"})
+match(a1:Address {city:"Berlin"})
+match(a2:Address {city:"Stuttgart"})
+create (c1) -[:HAS_ADDRESS] -> (a1)
+create (c2) -[:HAS_ADDRESS] -> (a2)
