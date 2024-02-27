@@ -1,0 +1,6 @@
+match (p1 {lastname:"Sawitzki"})
+match(p2 {lastname:"Fabricius"})
+create(c1:Company {name:"Cegos"})
+create(c2:Company {name:"Javacream"})
+create (p1) - [:WORKS_AT] -> (c1)
+create  (p2) <- [:WORKS_AT] - (c2)
